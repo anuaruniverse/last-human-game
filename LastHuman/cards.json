@@ -1,0 +1,36 @@
+[
+  { "id": 1, "type": "human", "text": "I miss you.", "difficulty": 1 },
+  { "id": 2, "type": "ai", "text": "System update completed successfully.", "difficulty": 1 },
+  { "id": 3, "type": "human", "text": "What should we eat tonight?", "difficulty": 1 },
+  { "id": 4, "type": "ai", "text": "Optimization routine finished with 0 errors.", "difficulty": 1 },
+  { "id": 5, "type": "human", "text": "Can you call me when you're free?", "difficulty": 1 },
+  { "id": 6, "type": "ai", "text": "Initiating scheduled maintenance sequence.", "difficulty": 1 },
+
+  { "id": 7, "type": "human", "text": "I’m tired… long day.", "difficulty": 2 },
+  { "id": 8, "type": "ai", "text": "Latency reduced by 23% after parameter tuning.", "difficulty": 2 },
+  { "id": 9, "type": "human", "text": "Happy birthday! 🎉", "difficulty": 2 },
+  { "id": 10, "type": "ai", "text": "Your request has been processed. Reference ID: 8F12.", "difficulty": 2 },
+  { "id": 11, "type": "human", "text": "Bro, this is so funny 😂", "difficulty": 2 },
+  { "id": 12, "type": "ai", "text": "The statement is logically consistent under given constraints.", "difficulty": 2 },
+
+  { "id": 13, "type": "human", "text": "I’m nervous before the meeting.", "difficulty": 3 },
+  { "id": 14, "type": "ai", "text": "Probability of success increased to 0.71.", "difficulty": 3 },
+  { "id": 15, "type": "human", "text": "Why are you so cold today?", "difficulty": 3 },
+  { "id": 16, "type": "ai", "text": "User sentiment detected: neutral.", "difficulty": 3 },
+  { "id": 17, "type": "human", "text": "Let’s go for a walk.", "difficulty": 3 },
+  { "id": 18, "type": "ai", "text": "I do not possess personal emotions.", "difficulty": 3 },
+
+  { "id": 19, "type": "human", "text": "I’m proud of you.", "difficulty": 4 },
+  { "id": 20, "type": "ai", "text": "All tasks executed as instructed.", "difficulty": 4 },
+  { "id": 21, "type": "human", "text": "Please don’t forget the milk.", "difficulty": 4 },
+  { "id": 22, "type": "ai", "text": "Reminder scheduled: milk acquisition.", "difficulty": 4 },
+  { "id": 23, "type": "human", "text": "I hate waiting in traffic.", "difficulty": 4 },
+  { "id": 24, "type": "ai", "text": "Traffic congestion detected. Suggested reroute computed.", "difficulty": 4 },
+
+  { "id": 25, "type": "human", "text": "I can't sleep… too many thoughts.", "difficulty": 5 },
+  { "id": 26, "type": "ai", "text": "Insomnia correlates with elevated cortisol levels.", "difficulty": 5 },
+  { "id": 27, "type": "human", "text": "Are you mad at me?", "difficulty": 5 },
+  { "id": 28, "type": "ai", "text": "Emotional state classification is not applicable.", "difficulty": 5 },
+  { "id": 29, "type": "human", "text": "I feel lonely sometimes.", "difficulty": 5 },
+  { "id": 30, "type": "ai", "text": "Acknowledged. Provide additional context for assistance.", "difficulty": 5 }
+]ы
